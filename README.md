@@ -1,5 +1,9 @@
 # Ultra-Low-Profile-USB-Header
 
+
+`AS OF 2023, THE SINGLE SOURCE OF TRUTH IS VDBXIO/WIKI - THIS REPO WILL SOON BE DEPRECATED`
+
+
 A USB header for PC motherboards designed to be as minimal as possible. It may interfere with components on some motherboards. Its intended use is for keeping small flash-drives, wireless controllers, or USB license keys inside a computer enclosure. 
 
 It can also be a powerful tool for computer techs who can keep two USB tools together such as a diagnostics OS on flash drive alongside a wireless keyboard/mouse receiver.
